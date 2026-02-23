@@ -12,7 +12,7 @@
     ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
     ![MySQL](https://img.shields.io/badge/MySQL%20-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
-- **Framework Front-End**:
+- **Libreria Front-End**:
     
     ![REACTJS](https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge)
 
