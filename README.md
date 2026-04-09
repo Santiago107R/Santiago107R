@@ -16,6 +16,10 @@
     
     ![REACTJS](https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge)
 
+- **Framework Front-End**:
+    
+    ![EXPO](https://img.shields.io/badge/expo-000020?style=for-the-badge&logo=expo&logoColor=white)
+
 
 - **Framework Back-End**:
     
